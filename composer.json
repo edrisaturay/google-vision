@@ -1,0 +1,13 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^4.1",
+        "google/cloud": "^0.126.0",
+        "google/cloud-vision": "^0.25.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
